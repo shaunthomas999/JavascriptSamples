@@ -1,0 +1,1 @@
+for(var i=1; i<101; i++) console.log((((i%3?'':'Bizz')+(i%5?'':'Appz'))||i));

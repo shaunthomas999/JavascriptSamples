@@ -1,0 +1,16 @@
+{
+  "name": "concatenate-responses",
+  "version": "1.0.0",
+  "description": "",
+  "main": "concatenateResponses.js",
+  "scripts": {
+    "start": "node concatenateResponses.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.1.2",
+    "request": "^2.75.0"
+  }
+}
